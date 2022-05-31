@@ -28,7 +28,7 @@ This sample application demonstrates the following technologies.
 6. Under Applications -> Applications -> Create App Integration -> OIDC -> Web Application
 7. Create `.env` file and change the `OKTA_*` values to your application
 
-```
+```yml
   # Host configuration
   PORT=8080
   HOST=*HOST*
