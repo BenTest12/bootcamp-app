@@ -49,8 +49,8 @@ This sample application demonstrates the following technologies.
   PGPORT=5432
 ```
 
-4. Initialize the PostgreSQL database by running `npm run initdb`
-5. Run `npm run dev` in the Web Server , to start the Node.JS application
+8. Initialize the PostgreSQL database by running `npm run initdb`
+9. Run `npm run dev` in the Web Server , to start the Node.JS application
 
 The associated blog post goes into more detail on how to set up PostgreSQL with Docker and how to configure your Okta account.
 
