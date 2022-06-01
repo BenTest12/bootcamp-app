@@ -26,7 +26,7 @@ This sample application demonstrates the following technologies.
 4. If you don't already have PostgreSQL, install it on the DB Server
 5. Create a [free Okta developer account](https://developer.okta.com/) and add a web application for this app 
 6. Under Applications -> Applications -> Create App Integration -> OIDC -> Web Application
-7. Create `.env` file and change the `OKTA_*` values to your application
+7. Create `.env` file and change the `OKTA_*`, `Host Configuration` And `Postgress Configuration` values to your application
 
 ```yml
   # Host configuration
