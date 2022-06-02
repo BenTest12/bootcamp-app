@@ -52,7 +52,8 @@ This sample application demonstrates the following technologies.
 ```
 
 8. Initialize the PostgreSQL database by running `npm run initdb` from the `bootcamp-app/` project folder 
-9. Run `npm run dev` in the Web Server , to start the `Weight Tracker` application
+9. Run `npm run dev` in the Web Server , to start the `Weight Tracker` application 
+10. Browse to `http://yourexternalserverip:8080` to view your `Weight Tracker` application
 
 ## Redundancy 
 
